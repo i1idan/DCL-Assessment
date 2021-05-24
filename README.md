@@ -7,7 +7,13 @@
 
 **Outputs:**
 
+ Train and Test Predictions Vs Acutual Values
+
 ![alt text](https://github.com/i1idan/DCL-Assessment/blob/main/images/ss1.png)
+
+
+ Predictions For Next 30 Days
+
 ![alt text](https://github.com/i1idan/DCL-Assessment/blob/main/images/ss2.png)
 
 
