@@ -7,6 +7,9 @@
 
 **Outputs:**
 
+![alt text](https://github.com/i1idan/DCL-Assessment/blob/main/images/ss1.png)
+![alt text](https://github.com/i1idan/DCL-Assessment/blob/main/images/ss2.png)
+
 
 
 
