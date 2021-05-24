@@ -7,7 +7,7 @@
 
 **Outputs:**
 
- Train and Test Predictions Vs Acutual Values
+ Train and Test Predictions Vs Actual Values
 
 ![alt text](https://github.com/i1idan/DCL-Assessment/blob/main/images/ss1.png)
 
